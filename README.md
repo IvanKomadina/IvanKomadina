@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I’m a computer science student passionate about 
 
 ## 🛠️ Technologies:
 
+Languages:
 [![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=black)](https://www.mongodb.com/)
