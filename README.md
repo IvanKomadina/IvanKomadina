@@ -18,28 +18,24 @@ Welcome to my GitHub profile! I’m a computer science student passionate about 
 ---
 
 ## 🛠️ Technologies:
-<p align="left">
-  <b>Languages:</b>
-  <span style="background-color:#f1e05a; color:black; border-radius: 5px; padding: 5px 10px; margin-right: 5px;">JavaScript</span>
-  <span style="background-color:#007acc; color:white; border-radius: 5px; padding: 5px 10px; margin-right: 5px;">TypeScript</span>
-  <span style="background-color:#306998; color:white; border-radius: 5px; padding: 5px 10px; margin-right: 5px;">Python</span>
-  <span style="background-color:#239120; color:white; border-radius: 5px; padding: 5px 10px; margin-right: 5px;">C#</span>
-</p>
 
-<p align="left">
-  <b>Frameworks:</b>
-  <span style="background-color:#61dafb; color:black; border-radius: 5px; padding: 5px 10px; margin-right: 5px;">React</span>
-  <span style="background-color:#092e20; color:white; border-radius: 5px; padding: 5px 10px; margin-right: 5px;">Django</span>
-  <span style="background-color:#8cc84b; color:black; border-radius: 5px; padding: 5px 10px; margin-right: 5px;">Node.js</span>
-  <span style="background-color:#512bd4; color:white; border-radius: 5px; padding: 5px 10px; margin-right: 5px;">.NET</span>
-</p>
+### Languages:
+- ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript
+- ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) TypeScript
+- ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python
+- ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) C#
 
-<p align="left">
-  <b>Databases:</b>
-  <span style="background-color:#47A248; color:white; border-radius: 5px; padding: 5px 10px; margin-right: 5px;">MongoDB</span>
-  <span style="background-color:#003B57; color:white; border-radius: 5px; padding: 5px 10px; margin-right: 5px;">SQL</span>
-  <span style="background-color:#336791; color:white; border-radius: 5px; padding: 5px 10px; margin-right: 5px;">PostgreSQL</span>
-</p>
+### Frameworks:
+- ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) React
+- ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg) Django
+- ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) Node.js
+- ![.NET](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg) .NET
+
+### Databases:
+- ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) MongoDB
+- ![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg) SQLite
+- ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) PostgreSQL
+
 
 
 
