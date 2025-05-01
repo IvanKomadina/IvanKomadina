@@ -17,25 +17,30 @@ Welcome to my GitHub profile! I’m a computer science student passionate about 
 
 ---
 
-## 🛠️ Languages, Frameworks & Databases:
+## 🛠️ Technologies:
 <p align="left">
-  <b>Languages:</b> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
-
-  <b>Frameworks:</b>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET"/>
-
-  <b>Databases:</b>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  <b>Languages:</b>
+  <span style="background-color:#f1e05a; color:black; border-radius: 5px; padding: 5px 10px; margin-right: 5px;">JavaScript</span>
+  <span style="background-color:#007acc; color:white; border-radius: 5px; padding: 5px 10px; margin-right: 5px;">TypeScript</span>
+  <span style="background-color:#306998; color:white; border-radius: 5px; padding: 5px 10px; margin-right: 5px;">Python</span>
+  <span style="background-color:#239120; color:white; border-radius: 5px; padding: 5px 10px; margin-right: 5px;">C#</span>
 </p>
+
+<p align="left">
+  <b>Frameworks:</b>
+  <span style="background-color:#61dafb; color:black; border-radius: 5px; padding: 5px 10px; margin-right: 5px;">React</span>
+  <span style="background-color:#092e20; color:white; border-radius: 5px; padding: 5px 10px; margin-right: 5px;">Django</span>
+  <span style="background-color:#8cc84b; color:black; border-radius: 5px; padding: 5px 10px; margin-right: 5px;">Node.js</span>
+  <span style="background-color:#512bd4; color:white; border-radius: 5px; padding: 5px 10px; margin-right: 5px;">.NET</span>
+</p>
+
+<p align="left">
+  <b>Databases:</b>
+  <span style="background-color:#47A248; color:white; border-radius: 5px; padding: 5px 10px; margin-right: 5px;">MongoDB</span>
+  <span style="background-color:#003B57; color:white; border-radius: 5px; padding: 5px 10px; margin-right: 5px;">SQL</span>
+  <span style="background-color:#336791; color:white; border-radius: 5px; padding: 5px 10px; margin-right: 5px;">PostgreSQL</span>
+</p>
+
 
 
 
