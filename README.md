@@ -6,14 +6,14 @@ Welcome to my GitHub profile! I’m a computer science student passionate about 
 ## 👤 About Me
 
 👨‍💻 **Name:** Ivan Komadina  
+
 🎓 **Education:**  
 - **Bachelor's Degree:** Completed in Computer Science (2020. – 2024.)  
 - **Master's Studies:** Currently studying Computer Science at the University of Split (2024–2026)  
 
-💻 **Interests:**  
-Web development, software engineering and Internet of things.
+💻 **Interests:**  Web development, software engineering and Internet of things.
 
-📫 **Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/ivan-komadina-ab4760261/?trk=opento_sprofile_details))**
+📫 **Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/ivan-komadina-ab4760261/?trk=opento_sprofile_details])**
 
 ---
 
