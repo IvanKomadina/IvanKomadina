@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I’m a computer science student passionate about 
 
 💻 **Interests:**  Web development, software engineering and Internet of things.
 
-📫 **Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/ivan-komadina-ab4760261/?trk=opento_sprofile_details])**
+📫 **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ivan-komadina-ab4760261/?trk=opento_sprofile_details)**
 
 ---
 
